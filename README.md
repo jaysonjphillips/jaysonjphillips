@@ -5,11 +5,11 @@
 So you've ended up on my github profile, eh? Guess I'll share a bit more about myself.  
 
 **work**
-- Currently, a Senior Engineering Manager of Core Learner Experience over at Coursera. 
+- Currently, Senior Director of Product Engineering @ Honeycomb.io
 - In addition, I have a small technical consultancy and due dilligence firm called Breakpointt Studio. 
 - This consultancy also is the organization through which I manage "Pull Up & Code", a twice-weekly [livestream](https://twitch.tv/its_jay_phillz) where we write code for some projects and create community for engineers of all levels. 
   - You can find more about this over at [our github profile](https://github.com/pullupandcode). 
-I've been in software in some form professionally for roughly 20 years. I'm passionate about education and helping anyone with an interest in code break in. 
+I've been in software in some form professionally for over 20 years. I'm passionate about education and helping anyone with an interest in code break in. 
 
 **learn**  
 tbd
