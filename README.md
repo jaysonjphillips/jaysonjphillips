@@ -5,14 +5,24 @@
 So you've ended up on my github profile, eh? Guess I'll share a bit more about myself.  
 
 **what do i do**
-- Senior Director of Software Engineering
-- Certified Master Health Coach
+- Head of Engineering, @Reading-Reimagined
+- Certified Master Health Coach (Precision Nutrition L1 and L2)
 - Livestreamer
 
 **learn**  
 
 **ama**  
 @_jjphillips on Twitter. Holla at me. 
+
+- 🔭 I’m currently working on
+-- stuff
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 <!--
 **jaysonjphillips/jaysonjphillips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
