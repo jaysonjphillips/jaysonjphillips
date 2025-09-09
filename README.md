@@ -5,7 +5,7 @@
 So you've ended up on my github profile, eh? Guess I'll share a bit more about myself.  
 
 **what do i do**
-- Head of Engineering, @Reading-Reimagined
+- Head of Engineering, Magpie Literacy
 - Certified Master Health Coach (Precision Nutrition L1 and L2)
 - Livestreamer
 
