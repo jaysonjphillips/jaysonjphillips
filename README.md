@@ -1,30 +1,24 @@
 ### Hi there 👋
 
 [Jayson Phillips](https://jaysonjphillips.com)  
-[He/Him]. Also known as Jay Phillz... and in some places, `jsonp`.  
-So you've ended up on my github profile, eh? Guess I'll share a bit more about myself.  
-
 **what do i do**
-- Head of Engineering
+- Currently, Vice President & Head of Engineering
 - Certified Master Health Coach (Precision Nutrition L1 and L2)
-- Livestreamer
+- Fractional Consultant - Technical Due Diligence, 0->1 Product Development, Enterprise AI Adoption with meaningful measurement
 
 **learn**  
+- Recently completed an Agentic AI Design Intensive with MIT CSAIL
+- Currently enrolled in John Hopkins University Technical Organization Leadership specialization (via Coursera)
+- Computer Science - Development of Operating Systems. I'm interested in how principles of operating systems can improve and advance the design of agent harnesses, with observability and auditable actions at the core layer.
 
 **ama**  
-@_jjphillips on Twitter. Holla at me. 
+@_jjphillips on Twitter 
 
-- 🔭 I’m currently working on
-    - Building a performant, highly efficacious literacy experience and Engineering Team
-    - Side projects, because why not?
-    - Blog posts on LLMs as effective engineering augmentation (we don't vibe code, but we do use tools to make us better)
-    - still working on my 5+ year smart mirror project
-    - Building my coaching practice
-- 🌱 I’m currently learning ...
-    - operating systems development
-    - executive leadership (growth/coaching/organization strategy)
-    - spanish
-- 😄 Pronouns: He/Him/His
+**working on**
+- Building a performant, highly efficacious literacy experience and Engineering Organization
+- Blog posts on LLMs as effective engineering augmentation (we don't vibe code, but we do use tools to make us better)
+    - *still* working on my 5+ year smart mirror project
+    - _still_ aim to get back to live streaming about technology and leadership
 
 <!--
 **jaysonjphillips/jaysonjphillips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
